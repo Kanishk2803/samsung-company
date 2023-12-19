@@ -1,4 +1,4 @@
-# samsung-company
+# samsung-store code
 The Samsung Store Management System is a C++ console-based application designed to simulate a simplified version of a store management system for a Samsung store. The program allows users to interact with the store, view available products, and manage the store's inventory.
 
 Features
